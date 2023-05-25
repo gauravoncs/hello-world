@@ -5,7 +5,7 @@ Hello world!
 
 ### This is heading H3
 
-** Let's make some bold statements **
+**Let's make some bold statements**
 
 *This looks so tilted*
 
@@ -40,6 +40,7 @@ Let's have a rule below
   "hello" : "world",
   "author" : "Gaurav Gaur"
 }
+---
 
 Here's is a sentence with a footnote. [^1]
 
@@ -48,7 +49,7 @@ Here's is a sentence with a footnote. [^1]
 language
 : A tool for communication
  
-~~~The world is flat.~~~
+~~The world is flat.~~
 
 Task List
 - [x] Write the press release
@@ -57,12 +58,15 @@ Task List
 
 That is so funny! :joy:
 
-I need to highlight that ==I'm just practicing!==.
+I need to highlight that =I love to code=
+I need to highlight that =WORD=
 
-Subscript Example
-H~2~O
+H<sup>2</sup>O
 
-Superscript Example
-X^2^
+X<sub>2</sub>
+
+~~~ You can copy the below text ~~~
+Copy it quick!
+~~~
 
 [^1]: This is the footnote.
